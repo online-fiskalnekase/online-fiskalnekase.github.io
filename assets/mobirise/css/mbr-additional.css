@@ -1536,95 +1536,6 @@ section.lazy-placeholder:after {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/background4.jpg");
 }
-.cid-rQGvOeEcaf {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rQGvOeEcaf .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rQGvOeEcaf .number-wrap {
-  color: #4f4943;
-  border-color: rgba(255, 255, 255, 0.15);
-  position: relative;
-  display: inline-block;
-  text-align: center;
-  padding: 5px 10px 13px 10px;
-  margin: 0;
-  min-width: 118px;
-  border-radius: 2px;
-  max-width: 100%;
-}
-.cid-rQGvOeEcaf .number {
-  font-style: normal;
-  font-weight: 700;
-  font-size: 55px;
-  text-transform: none;
-  letter-spacing: -2px;
-  word-spacing: 0;
-  line-height: 1.3;
-  color: #232323;
-}
-.cid-rQGvOeEcaf .period {
-  display: block;
-  padding-top: 2px;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-}
-.cid-rQGvOeEcaf .dot {
-  position: absolute;
-  top: -10px;
-  right: -1em;
-  width: 1em;
-  display: block;
-  height: 83%;
-  overflow: hidden;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 55px;
-  line-height: 89.65px;
-  text-transform: none;
-  letter-spacing: 0;
-  word-spacing: 0;
-  color: #232323;
-}
-.cid-rQGvOeEcaf .countdown-cont {
-  max-width: 700px;
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rQGvOeEcaf .dot {
-    display: none;
-  }
-}
-@media (max-width: 543px) {
-  .cid-rQGvOeEcaf .number-wrap {
-    margin-bottom: 15px;
-  }
-}
-@media (max-width: 550px) {
-  .cid-rQGvOeEcaf .col-xs-3 {
-    padding-left: 0;
-    padding-right: 0;
-    max-width: 25%;
-    flex: 0 0 25%;
-  }
-  .cid-rQGvOeEcaf .number-wrap {
-    min-width: auto;
-  }
-}
-@media (max-width: 440px) {
-  .cid-rQGvOeEcaf .number,
-  .cid-rQGvOeEcaf .dot {
-    font-size: 40px;
-  }
-}
-@media (max-width: 380px) {
-  .cid-rQGvOeEcaf .period {
-    font-size: 0.8rem;
-  }
-}
 .cid-rQGvY8CSjc {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2351,4 +2262,124 @@ section.lazy-placeholder:after {
 .cid-rQFHcFsFCb .nav-link:hover,
 .cid-rQFHcFsFCb .dropdown-item:hover {
   color: #1234e8 !important;
+}
+.cid-rQM5k5eaz4 {
+  background-image: url("../../../assets/images/online-trading-845x551.png");
+}
+.cid-rQM5k5eaz4 h1 {
+  color: #616161;
+}
+.cid-rQM5k5eaz4 h2,
+.cid-rQM5k5eaz4 h3,
+.cid-rQM5k5eaz4 p {
+  color: #767676;
+}
+.cid-rQM5k5eaz4 .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-rQM5k5eaz4 .mbr-text,
+.cid-rQM5k5eaz4 .mbr-section-btn {
+  color: #f7ed4a;
+}
+.cid-rQM5k5eaz4 H1 {
+  color: #f7ed4a;
+}
+.cid-rQM5k5eaz4 H3 {
+  color: #f7ed4a;
+}
+.cid-rQM5kvlmL4 {
+  background-image: url("../../../assets/images/online-trading-845x551.png");
+}
+.cid-rQM5kvlmL4 h1 {
+  color: #616161;
+}
+.cid-rQM5kvlmL4 h2,
+.cid-rQM5kvlmL4 h3,
+.cid-rQM5kvlmL4 p {
+  color: #767676;
+}
+.cid-rQM5kvlmL4 .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-rQM5kvlmL4 .mbr-text,
+.cid-rQM5kvlmL4 .mbr-section-btn {
+  color: #f7ed4a;
+}
+.cid-rQM5kvlmL4 H1 {
+  color: #f7ed4a;
+}
+.cid-rQM5kvlmL4 H3 {
+  color: #f7ed4a;
+}
+.cid-rQM5kOR9sT {
+  background-image: url("../../../assets/images/online-trading-845x551.png");
+}
+.cid-rQM5kOR9sT h1 {
+  color: #616161;
+}
+.cid-rQM5kOR9sT h2,
+.cid-rQM5kOR9sT h3,
+.cid-rQM5kOR9sT p {
+  color: #767676;
+}
+.cid-rQM5kOR9sT .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-rQM5kOR9sT .mbr-text,
+.cid-rQM5kOR9sT .mbr-section-btn {
+  color: #f7ed4a;
+}
+.cid-rQM5kOR9sT H1 {
+  color: #f7ed4a;
+}
+.cid-rQM5kOR9sT H3 {
+  color: #f7ed4a;
+}
+.cid-rQM5lxlt9x {
+  background-image: url("../../../assets/images/online-trading-845x551.png");
+}
+.cid-rQM5lxlt9x h1 {
+  color: #616161;
+}
+.cid-rQM5lxlt9x h2,
+.cid-rQM5lxlt9x h3,
+.cid-rQM5lxlt9x p {
+  color: #767676;
+}
+.cid-rQM5lxlt9x .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-rQM5lxlt9x .mbr-text,
+.cid-rQM5lxlt9x .mbr-section-btn {
+  color: #f7ed4a;
+}
+.cid-rQM5lxlt9x H1 {
+  color: #f7ed4a;
+}
+.cid-rQM5lxlt9x H3 {
+  color: #f7ed4a;
+}
+.cid-rQM5mbnbOn {
+  background-image: url("../../../assets/images/online-trading-845x551.png");
+}
+.cid-rQM5mbnbOn h1 {
+  color: #616161;
+}
+.cid-rQM5mbnbOn h2,
+.cid-rQM5mbnbOn h3,
+.cid-rQM5mbnbOn p {
+  color: #767676;
+}
+.cid-rQM5mbnbOn .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-rQM5mbnbOn .mbr-text,
+.cid-rQM5mbnbOn .mbr-section-btn {
+  color: #f7ed4a;
+}
+.cid-rQM5mbnbOn H1 {
+  color: #f7ed4a;
+}
+.cid-rQM5mbnbOn H3 {
+  color: #f7ed4a;
 }
