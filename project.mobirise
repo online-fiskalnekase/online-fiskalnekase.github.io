@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ONLINE FISKALNE KASE ",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1282,11 +1282,11 @@
         }
       ]
     },
-    "index.html": {
+    "page1.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Početna",
+        "meta_descr": "home",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
