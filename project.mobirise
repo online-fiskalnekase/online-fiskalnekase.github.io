@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "ONLINE FISKALNE KASE ",
-    "currentPage": "page3.html",
+    "name": "ONLINE-FISKALNE KASE ",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -61,7 +61,7 @@
   "pages": {
     "page2.html": {
       "settings": {
-        "meta_descr": "fiskalne kase",
+        "meta_descr": "fiskalne kase.okalne fiskalne kase",
         "title": "Fiskalne kase",
         "order": 1
       },
@@ -559,7 +559,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "kontakt",
+        "meta_descr": "kontakt  elektronika Kraljevo",
         "title": "Kontakt",
         "order": 2
       },
@@ -1182,7 +1182,7 @@
       "settings": {
         "main": true,
         "title": "Početna",
-        "meta_descr": "home",
+        "meta_descr": "prodaja i servis fiskalne kase",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
