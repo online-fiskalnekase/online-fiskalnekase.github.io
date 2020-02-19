@@ -1128,9 +1128,13 @@ section.lazy-placeholder:after {
 }
 .cid-rQFFnUrTW8 .mbr-section-subtitle {
   color: #232323;
+  text-align: center;
 }
 .cid-rQFFnUrTW8 .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-rQFFnUrTW8 .mbr-section-subtitle DIV {
+  text-align: left;
 }
 .cid-rQFHcFsFCb .navbar {
   padding: .5rem 0;
@@ -1535,6 +1539,11 @@ section.lazy-placeholder:after {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rQYa5r8YGd {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-rQGvY8CSjc {
   padding-top: 90px;
