@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "online-fiskalnekase",
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -54,7 +54,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 31,
+    "uniqCompNum": 33,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png"
   },
